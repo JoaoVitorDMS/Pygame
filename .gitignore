@@ -1,0 +1,8 @@
+# Ignore a pasta sons_Efeitos
+sons_Efeitos
+
+#Ignore a pasta sprites
+sprites
+
+# Ignore todos os arquivos de texto
+*.tx
