@@ -1,4 +1,4 @@
 import pygame as MotorGame
 
-class MenuPrincipal(self):
+class Plataforma(self):
     pass
